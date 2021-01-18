@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    /* background-color: #9999ff; */
+    background: radial-gradient(#9999ff, #000099)
+}
+.radial-gradient {
+  background-image: radial-gradient(cyan 0%, transparent 20%, salmon 40%);
+} 
+.profile {
+    background-color: #e6e6ff;
+    display: block;
+    padding: 20px;
+    margin-top: 2em;
+    border-radius: 25px;
+}
+
+p {
+    text-indent: 30px
+}
+
+#descrip {
+    font-style: italic;
+    /* font-size: 300px; */
+}
+
+.nav {
+    /* display: inline-block; */
+    text-align: center;
+    background-color: #e6e6ff;
+    font-size: 20px;
+    list-style: none;
+    width: 100%;
+    border-radius: 10px;
+    width: auto;
+}
+    
+.nav li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 30%;
+    margin-top: 70px;
+}
