@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/onemesa/port.git/static/css/main.681663f9.chunk.css",
-    "main.js": "/onemesa/port.git/static/js/main.6d977999.chunk.js",
-    "main.js.map": "/onemesa/port.git/static/js/main.6d977999.chunk.js.map",
-    "runtime-main.js": "/onemesa/port.git/static/js/runtime-main.83fe10c0.js",
-    "runtime-main.js.map": "/onemesa/port.git/static/js/runtime-main.83fe10c0.js.map",
-    "static/js/2.a6b40273.chunk.js": "/onemesa/port.git/static/js/2.a6b40273.chunk.js",
-    "static/js/2.a6b40273.chunk.js.map": "/onemesa/port.git/static/js/2.a6b40273.chunk.js.map",
-    "index.html": "/onemesa/port.git/index.html",
-    "static/css/main.681663f9.chunk.css.map": "/onemesa/port.git/static/css/main.681663f9.chunk.css.map",
-    "static/js/2.a6b40273.chunk.js.LICENSE.txt": "/onemesa/port.git/static/js/2.a6b40273.chunk.js.LICENSE.txt"
+    "main.css": "/port/static/css/main.681663f9.chunk.css",
+    "main.js": "/port/static/js/main.6d977999.chunk.js",
+    "main.js.map": "/port/static/js/main.6d977999.chunk.js.map",
+    "runtime-main.js": "/port/static/js/runtime-main.566e2559.js",
+    "runtime-main.js.map": "/port/static/js/runtime-main.566e2559.js.map",
+    "static/js/2.a6b40273.chunk.js": "/port/static/js/2.a6b40273.chunk.js",
+    "static/js/2.a6b40273.chunk.js.map": "/port/static/js/2.a6b40273.chunk.js.map",
+    "index.html": "/port/index.html",
+    "static/css/main.681663f9.chunk.css.map": "/port/static/css/main.681663f9.chunk.css.map",
+    "static/js/2.a6b40273.chunk.js.LICENSE.txt": "/port/static/js/2.a6b40273.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83fe10c0.js",
+    "static/js/runtime-main.566e2559.js",
     "static/js/2.a6b40273.chunk.js",
     "static/css/main.681663f9.chunk.css",
     "static/js/main.6d977999.chunk.js"
