@@ -1,4 +1,4 @@
-export default [
+const arr = [
     {
         id: 1,
         name: "Grumpy Cat Poster",
@@ -24,3 +24,5 @@ export default [
         price: 35
     }
 ]
+
+export default arr 

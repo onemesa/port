@@ -3,23 +3,29 @@ import './styles.css'
 import {Link, Switch, Route} from 'react-router-dom'
 import Home from "./Home"
 import Products from "./Products"
+import Hotdog from './components/hotdog'
 
 function App() {    
     return (
         <div>
             
                 <ul className='nav'>
-                    <li><Link to='/'>Home</Link></li>
-                    <li><Link to='/products'>Products</Link></li>
+                    <li><Link to='/port/'>Home</Link></li>
+                    <li><Link to='/port/products'>Products</Link></li>
+                    <li><Link to='/port/hotdog'>Hot Dog or Sandwich?</Link></li>
+
                 </ul>
             
             
             <Switch>
-                <Route exact path='/'>
+                <Route exact path='/port'>
                     <Home />
                 </Route>
-                <Route path='/products'>
+                <Route path='/port/products'>
                     <Products />
+                </Route>
+                <Route path='/port/hotdog'>
+                    <Hotdog />
                 </Route>
             </Switch>
             
